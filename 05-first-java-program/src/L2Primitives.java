@@ -1,4 +1,4 @@
-public class F2Primitives {
+public class L2Primitives {
     public static void main(String[] args) {
         //Primitives : any data type which you cannot break even further.
         int rollno = 64;

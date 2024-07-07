@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class F3Inputs {
+public class L3Inputs {
     public static void main(String[] args) {
 
         //taking input in java
